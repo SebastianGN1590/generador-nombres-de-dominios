@@ -10,6 +10,7 @@
  //console.log("Hello Rigo from the console!"); 
 //};
 
+document.getElementById('app').innerHTML = '<h1>¡Hola Mundo!</h1>';
 let pronoun = ['the', 'our'];
 
 let adj = ['great', 'big'];
